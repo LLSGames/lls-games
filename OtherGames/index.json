@@ -1,0 +1,16 @@
+[
+  {
+    "StoreUrl": "https://microsoft.com/0",
+    "DisplayText": "game 0",
+    "Title": "game 0",
+    "ScreenUrl": "screen0.png",
+    "IconUrl": "icon0.png"
+  },
+  {
+    "StoreUrl": "https://microsoft.com/1",
+    "DisplayText": "game 1",
+    "Title": "game 1",
+    "ScreenUrl": "screen1.png",
+    "IconUrl": "icon1.png"
+  }
+]
