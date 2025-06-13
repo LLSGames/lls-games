@@ -2,18 +2,20 @@
   "Version": 1,
   "Games": [
     {
-      "StoreUrl": "https://microsoft.com/0",
-      "DisplayText": "game 0",
-      "Title": "game 0",
-      "ScreenUrl": "screen0.png",
-      "IconUrl": "icon0.png"
+      "StoreUrl": "ms-windows-store://pdp/?productid=9PMG3SFGKF4P",
+      "DisplayText": "Anti-Gravity Racing Wipeout",
+      "Title": "Anti-Gravity Racing Wipeout",
+      "TitleScale": 2.8,
+      "ScreenUrl": "AGRWipeoutTitleScreen.png",
+      "IconUrl": "AGRWipeoutIcon512.png"
     },
     {
-      "StoreUrl": "https://microsoft.com/1",
-      "DisplayText": "game 1",
-      "Title": "game 1",
-      "ScreenUrl": "screen1.png",
-      "IconUrl": "icon1.png"
+      "StoreUrl": "ms-windows-store://pdp/?productid=9NQ941XB1S50",
+      "DisplayText": "Asteroids Deluxe Arcade Collection",
+      "Title": "Asteroids Deluxe Arcade Collection",
+      "TitleScale": 2.8,
+      "ScreenUrl": "AsteroidsDeluxeTitleScreen.png",
+      "IconUrl": "AsteroidsDeluxeIcon512.png"
     }
   ]
 }
