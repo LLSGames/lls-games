@@ -1,10 +1,10 @@
 {
-  "Version": 1,
+  "Version": 2,
   "Games": [
     {
       "StoreUrl": "ms-windows-store://pdp/?productid=9PMG3SFGKF4P",
-      "DisplayText": "Anti-Gravity Racing™ Wipeout",
-      "Title": "Anti-Gravity Racing™ Wipeout",
+      "DisplayText": "Anti-Gravity Racing™ Wipeout Edit",
+      "Title": "Anti-Gravity Racing™ Wipeout Edit",
       "TitleScale": 2.8,
       "ScreenUrl": "AGRWipeoutTitleScreen.png",
       "IconUrl": "AGRWipeoutIcon512.png"
