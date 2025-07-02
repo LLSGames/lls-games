@@ -73,7 +73,7 @@
 
         const container = document.getElementById("games");
 
-        data.Games.forEach(game => {
+        data.Games.slice(1).forEach(game => {
           const tile = document.createElement("div");
           tile.className = "game-tile";
 
