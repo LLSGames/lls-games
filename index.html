@@ -64,7 +64,7 @@
   <div class="game-container" id="games"></div>
 
   <script>
-    fetch("/OtherGames/index.json")
+    fetch("/api/OtherGames/index.json")
       .then(response => response.json())
       .then(data => {
         if (!Array.isArray(data.Games)) {
